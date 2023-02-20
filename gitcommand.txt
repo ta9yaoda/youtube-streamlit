@@ -1,0 +1,4 @@
+PS C:\Users\takuy\Desktop\python> git init  #初期化
+Initialized empty Git repository in C:/Users/takuy/Desktop/python/.git/
+PS C:\Users\takuy\Desktop\python> git remote add origin https://github.com/ta9yaoda/youtube-streamlit.git  #gitレポジトリとローカルを紐づける
+PS C:\Users\takuy\Desktop\python> 
